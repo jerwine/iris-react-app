@@ -1,0 +1,4 @@
+export const GET_IRISES = "GET_IRISES"; 
+export const GET_IRISES_BY_ID = "GET_IRISES_BY_ID";
+export const GET_ALL_SPECIES = "GET_ALL_SPECIES";
+export const GET_IRISES_BY_SPECIES = "GET_IRISES_BY_SPECIES";
